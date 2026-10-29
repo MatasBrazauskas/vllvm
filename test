@@ -1,0 +1,17 @@
+fn getValue(i32 i) i32 {
+    if i < 0 {
+        ret 0
+    }
+
+    ret i
+}
+
+fn main() i32 {
+    i32 x{0}
+    i32 y{getValue(x)}
+
+    y += x
+
+    ret y
+}
+

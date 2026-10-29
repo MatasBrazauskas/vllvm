@@ -1,0 +1,16 @@
+fn getValue(i32 x) i32 {
+	i32 y{x}
+	ret y
+}
+
+fn main() void {
+	i32 val{getValue(1)}
+
+	if val > 0 {
+		val += 1
+	} elif val < 0 {
+		val = 1
+	else {
+		val -= 0
+	}
+}

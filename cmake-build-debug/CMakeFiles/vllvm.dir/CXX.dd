@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/vllvm.dir/src/CodeGen.cpp.o: dyndep
+
+build CMakeFiles/vllvm.dir/src/Lexer.cpp.o: dyndep
+
+build CMakeFiles/vllvm.dir/src/Parser.cpp.o: dyndep
+
+build CMakeFiles/vllvm.dir/src/StaticCheck.cpp.o: dyndep
+
+build CMakeFiles/vllvm.dir/src/Utils.cpp.o: dyndep
+
+build CMakeFiles/vllvm.dir/src/main.cpp.o: dyndep
+

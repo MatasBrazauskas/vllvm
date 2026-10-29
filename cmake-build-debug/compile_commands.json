@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/CodeGen.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/CodeGen.cpp.o -c /home/matas/Repos/vllvm/src/CodeGen.cpp",
+  "file": "/home/matas/Repos/vllvm/src/CodeGen.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/CodeGen.cpp.o"
+},
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/Lexer.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/Lexer.cpp.o -c /home/matas/Repos/vllvm/src/Lexer.cpp",
+  "file": "/home/matas/Repos/vllvm/src/Lexer.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/Lexer.cpp.o"
+},
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/Parser.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/Parser.cpp.o -c /home/matas/Repos/vllvm/src/Parser.cpp",
+  "file": "/home/matas/Repos/vllvm/src/Parser.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/Parser.cpp.o"
+},
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/StaticCheck.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/StaticCheck.cpp.o -c /home/matas/Repos/vllvm/src/StaticCheck.cpp",
+  "file": "/home/matas/Repos/vllvm/src/StaticCheck.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/StaticCheck.cpp.o"
+},
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/Utils.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/Utils.cpp.o -c /home/matas/Repos/vllvm/src/Utils.cpp",
+  "file": "/home/matas/Repos/vllvm/src/Utils.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/Utils.cpp.o"
+},
+{
+  "directory": "/home/matas/Repos/vllvm/cmake-build-debug",
+  "command": "/usr/bin/clang++ -D_GNU_SOURCE -DEXPERIMENTAL_KEY_INSTRUCTIONS -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/home/matas/Repos/vllvm/include -isystem /usr/lib/llvm-21/include -g -std=c++23 -fcolor-diagnostics @CMakeFiles/vllvm.dir/src/main.cpp.o.modmap -o CMakeFiles/vllvm.dir/src/main.cpp.o -c /home/matas/Repos/vllvm/src/main.cpp",
+  "file": "/home/matas/Repos/vllvm/src/main.cpp",
+  "output": "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir/src/main.cpp.o"
+}
+]

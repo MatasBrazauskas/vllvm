@@ -1,0 +1,56 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/matas/Repos/vllvm/cmake-build-debug",
+	"dir-cur-src" : "/home/matas/Repos/vllvm",
+	"dir-top-bld" : "/home/matas/Repos/vllvm/cmake-build-debug",
+	"dir-top-src" : "/home/matas/Repos/vllvm",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/matas/Repos/vllvm/include",
+		"/usr/lib/llvm-21/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/matas/Repos/vllvm/cmake-build-debug/CMakeFiles/vllvm.dir",
+	"sources" : 
+	{
+		"CMakeFiles/vllvm.dir/src/CodeGen.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/CodeGen.cpp"
+		},
+		"CMakeFiles/vllvm.dir/src/Lexer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/Lexer.cpp"
+		},
+		"CMakeFiles/vllvm.dir/src/Parser.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/Parser.cpp"
+		},
+		"CMakeFiles/vllvm.dir/src/StaticCheck.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/StaticCheck.cpp"
+		},
+		"CMakeFiles/vllvm.dir/src/Utils.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/Utils.cpp"
+		},
+		"CMakeFiles/vllvm.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/matas/Repos/vllvm/src/main.cpp"
+		}
+	}
+}
